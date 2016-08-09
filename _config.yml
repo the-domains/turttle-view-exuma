@@ -1,4 +1,3 @@
-layout_spectrum: 0.6321023677010089
 typography_spectrum: 0.951043632812798
 color:
   brandStrength: 0.32675231201574206
@@ -11,4 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.6321023677010089
 name: Turttle View Exuma
+title: TURTLE VIEW
+description: 'vacation rental home in georgetown, exuma'
